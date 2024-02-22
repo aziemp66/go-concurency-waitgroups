@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "basic"
+		},
+		{
+			"path": "with-waitgroup"
 		}
 	],
 	"settings": {}
