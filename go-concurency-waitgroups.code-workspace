@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "deadlock-example"
+		},
+		{
+			"path": "negative-counter-panic-example"
 		}
 	],
 	"settings": {}
