@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "with-waitgroup"
+		},
+		{
+			"path": "no-add"
 		}
 	],
 	"settings": {}
