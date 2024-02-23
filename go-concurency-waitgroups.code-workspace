@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "no-add"
+		},
+		{
+			"path": "deadlock-example"
 		}
 	],
 	"settings": {}
