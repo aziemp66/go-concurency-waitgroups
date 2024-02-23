@@ -20,6 +20,12 @@
 		},
 		{
 			"path": "pass-by-value"
+		},
+		{
+			"path": "reuse"
+		},
+		{
+			"path": "reuse-loop"
 		}
 	],
 	"settings": {}
