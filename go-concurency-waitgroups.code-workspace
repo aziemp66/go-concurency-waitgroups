@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "negative-counter-panic-example"
+		},
+		{
+			"path": "pass-by-value"
 		}
 	],
 	"settings": {}
