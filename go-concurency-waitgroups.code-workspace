@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "reuse-loop"
+		},
+		{
+			"path": "limit-goroutines"
 		}
 	],
 	"settings": {}
